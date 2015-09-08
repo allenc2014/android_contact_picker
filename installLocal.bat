@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=d:\projects\android_contact_picker\library\build\outputs\aar\contact_picker_library_v3.0.1.aar -DgroupId=com.codinguser.android -DartifactId=contactpicker -Dversion=3.0.1 -Dpackaging=aar
